@@ -123,11 +123,11 @@
 				5B7DF8021EA310DE00D38577 /* AppDelegate.swift */,
 				5B7DF8041EA310DE00D38577 /* MainViewController.swift */,
 				5B7DF8161EA31AF700D38577 /* ContentDataSource.swift */,
+				5B3847B71EA320AB00BC87B4 /* ContentCell.swift */,
 				5B7DF8061EA310DE00D38577 /* Main.storyboard */,
 				5B7DF8091EA310DE00D38577 /* Assets.xcassets */,
 				5B7DF80B1EA310DE00D38577 /* LaunchScreen.storyboard */,
 				5B7DF80E1EA310DE00D38577 /* Info.plist */,
-				5B3847B71EA320AB00BC87B4 /* ContentCell.swift */,
 			);
 			path = Example;
 			sourceTree = "<group>";

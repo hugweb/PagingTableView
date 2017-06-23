@@ -9,13 +9,13 @@
 import UIKit
 
 class ContentCell: UITableViewCell {
-
-  @IBOutlet weak var contentLbl: UILabel!
-
-  var content: String = "" {
-    didSet {
-      contentLbl.text = content
+    
+    @IBOutlet weak var contentLbl: UILabel!
+    
+    var content: String = "" {
+        didSet {
+            contentLbl.text = content
+        }
     }
-  }
-  
+    
 }
